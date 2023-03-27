@@ -11,7 +11,7 @@ export default class Ranger extends Archetype {
     Ranger.instances += 1;
   }
 
-  static createdArchetypesInstances(): number {
-    return this.instances;
+  static createdArchetypeInstances(): number {
+    return Ranger.instances;
   }
 }

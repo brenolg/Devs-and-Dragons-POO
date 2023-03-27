@@ -11,7 +11,7 @@ export default class Necromancer extends Archetype {
     Necromancer.instances += 1;
   }
 
-  static createdArchetypesInstances(): number {
-    return this.instances;
+  static createdArchetypeInstances(): number {
+    return Necromancer.instances;
   }
 }

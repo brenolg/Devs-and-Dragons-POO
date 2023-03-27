@@ -11,7 +11,7 @@ export default class Warrior extends Archetype {
     Warrior.instances += 1;
   }
 
-  static createdArchetypesInstances(): number {
-    return this.instances;
+  static createdArchetypeInstances(): number {
+    return Warrior.instances;
   }
 }
