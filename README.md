@@ -13,8 +13,6 @@ O projeto aborda os pilares da POO, incluindo herança, abstração, encapsulame
 ## Tecnologias Utilizadas
 
 - TypeScript
-- Node.js
-- TypeScript, 
 - Classes,
 - Instâncias
 - Atributos
