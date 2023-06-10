@@ -56,4 +56,4 @@ npm install
 Implemente as classes como preferir...
 
 ## Agradecimentos
-Agradecemos a todos os colaboradores e contribuidores por seu apoio e participação no desenvolvimento deste repositório. Seu envolvimento é fundamental para o crescimento e sucesso do projeto. Obrigado pela sua dedicação e esforço contínuo!
+Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Software da Trybe. Agradeço à Trybe pela oportunidade e aprender POO e SOLID.
